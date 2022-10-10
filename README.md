@@ -1,9 +1,8 @@
 Hola! 👋, soy Peter !  
   
 
-Soy técnico en electrónica y administrador de sistemas.  
-  
-  
+Soy técnico en electrónica y administrador de sistemas. 
+Soy una persona autodidacta, proactiva y apasionada por mi trabajo. He trabajado de forma independiente como desarrollador y también para empresas brindando soporte técnico. 
 
 <br/>  
 
