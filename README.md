@@ -1,13 +1,12 @@
-Hola! 👋, soy Peter !  
+## Hola! 👋, soy Peter !  
   
 
-Soy técnico en electrónica y administrador de sistemas. 
-Soy una persona autodidacta, proactiva y apasionada por mi trabajo. He trabajado de forma independiente como desarrollador y también para empresas brindando soporte técnico. 
+Soy técnico en electrónica y administrador de sistemas.  
+  
+  
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 📚 Estudio ingenieria informactica.   
@@ -21,9 +20,6 @@ Soy una persona autodidacta, proactiva y apasionada por mi trabajo. He trabajado
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -71,16 +67,28 @@ Soy una persona autodidacta, proactiva y apasionada por mi trabajo. He trabajado
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pdomizi&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdomizi&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
 <br/>  
 
+<a href="https://github.com/pdomizi" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/pdomizi" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/pedro-avila-domizi-78a021198" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/peteer.py" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
   
 
 <br/>  
@@ -91,6 +99,3 @@ Soy una persona autodidacta, proactiva y apasionada por mi trabajo. He trabajado
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
