@@ -20,7 +20,7 @@ Soy técnico en electrónica y administrador de sistemas.
 
 </td><td valign="top" width="50%">
 
-
+https://rishavanand.github.io/static/images/greetings.gif
 
 </td></tr></table>  
 
