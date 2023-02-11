@@ -12,12 +12,6 @@ Soy técnico en electrónica y administrador de sistemas.
 - 📚 Estudio ingenieria informactica.   
   
 
-- 💼 Actualmente trabajo en FADEEAC.   
-  
-
-- ⚡ Ofrezco consultoría en proyectos.   
-
-
 </td><td valign="top" width="50%">
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
